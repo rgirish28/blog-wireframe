@@ -1,0 +1,1 @@
+Wireframe for the Blog Application
