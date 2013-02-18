@@ -1,0 +1,202 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1028" measuredH="423" mockupW="1028" mockupH="411">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="17" w="488" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blog%20Home%0Ahttp%3A//blog.com/home</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="111" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo/Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="19" y="214" w="39" h="21" measuredW="47" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="19" y="235" w="39" h="18" measuredW="54" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Archive</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="354" y="188" w="69" h="15" measuredW="63" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Subscribe</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="124" y="126" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Posts%20-%20Title%20and%20Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="125" y="277" w="34" h="16" measuredW="41" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Like</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="165" y="277" w="65" h="16" measuredW="62" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Comment</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="238" y="277" w="51" h="19" measuredW="48" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Share</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="121" y="302" w="203" h="-1" measuredW="175" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Clicking%20on%20comment%20opens%20up%20a%20text%20field</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="470" y="92" w="-1" h="296" measuredW="16" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>0</value>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::List" x="19" y="254" w="84" h="62" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>8</size>
+        <text>September%202012%0AJuly%202012%0AJune%202012</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="73" y="277" w="41" h="37" measuredW="72" measuredH="15" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Opens%20only%20on%20click</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SearchBox" x="354" y="155" w="102" h="-1" measuredW="120" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ButtonBar" x="362" y="203" w="-1" h="-1" measuredW="76" measuredH="23" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <size>8</size>
+        <text>Email%2C%20RSS</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="438" y="203" w="41" h="37" measuredW="72" measuredH="15" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Opens%20only%20on%20click</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="440" y="359" w="41" h="37" measuredW="49" measuredH="15" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Infinite%20scroll</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="425" y="89" w="31" h="23" measuredW="43" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="598" y="12" w="430" h="411" measuredW="450" measuredH="400" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20page%20%28After%20logging%20in%29</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="626" y="93" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="630" y="196" w="39" h="21" measuredW="47" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Home</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="630" y="217" w="39" h="18" measuredW="54" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Archive</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="735" y="108" w="200" h="27" measuredW="200" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Posts%20-%20Title%20and%20Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::List" x="630" y="236" w="84" h="62" measuredW="100" measuredH="126" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>8</size>
+        <text>September%202012%0AJuly%202012%0AJune%202012</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="735" y="137" w="200" h="27" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Posts%20-%20Title%20and%20Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextArea" x="735" y="169" w="200" h="121" measuredW="200" measuredH="140" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clicking%20on%20edit%20or%20new%20opens%20up%20an%20editor%20with%20options%20for%20Title%2C%20tags%2C%20Body%2C%20etc</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::FormattingToolbar" x="735" y="261" w="156" h="-1" measuredW="270" measuredH="29" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="735" y="81" w="39" h="18" measuredW="42" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>New</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="891" y="113" w="39" h="18" measuredW="39" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="891" y="141" w="39" h="18" measuredW="39" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="357" y="242" w="-1" h="-1" measuredW="100" measuredH="70" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="362" y="269" w="-1" h="-1" measuredW="92" measuredH="16" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Tag%20Cloud/Categories</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextArea" x="735" y="298" w="200" h="27" measuredW="200" measuredH="140" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Posts%20-%20Title%20and%20Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="891" y="302" w="39" h="18" measuredW="39" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>9</size>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
