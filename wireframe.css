@@ -1,0 +1,42 @@
+
+header {
+	
+	padding: 10px;
+}
+
+#login_id {
+	position : absolute;
+	right:10px;
+	top:10px;
+}
+
+#subscribe {
+	float:right;
+	top: 200px;
+	right : 10px;
+}
+
+#posts {
+    
+	position: absolute;
+	left:220px;
+	top: 120px;
+	right:420px;
+	bottom:20px;
+	
+}
+
+nav {
+	position:absolute;
+	
+	left:20px;
+	top:150px;
+
+}
+
+#title {
+	position:absolute;
+	
+	left:150px;
+	top:20px;
+}
