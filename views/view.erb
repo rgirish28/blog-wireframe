@@ -1,17 +1,15 @@
 <article>
 	<header>
-		<h1><%= @blog.title %> </h1>
+		<h1><%= @blog.title %> </h1> <a class="btn pull-right" href="<%=@blog.id%>/update">Edit</a>
 	</header>
 	<%= @blog.content%>
-	<div>
-	<img src="http://placehold.it/100x100">
-	</div>
 	<br/>
-	<button type="button">Like</button> <button type="button">Share</button> 
+	<br/>
+	<a class = "btn" href= "">Like</a> <a class = "btn" href="">Share</a> 
 	<br/> <br/>
 	<textarea name="comments" rows="4" cols="">Comments</textarea>
 	<div>
-		<input type ="submit" name="comments_submit" id="comments_submit">
+		<input class = "btn" type ="submit" name="comments_submit" id="comments_submit">
 	</div>
 
 </article>

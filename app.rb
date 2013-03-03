@@ -32,3 +32,18 @@ get '/:id' do
   @blog = Blog.get params[:id]
   erb :view   
 end
+
+get '/:id/update' do
+  @blog = Blog.get params[:id]
+  erb :update
+end
+
+post '/:id' do|id|
+   blog = Blog.get params[:id]
+   blog.title = params[:title]
+   blog.content = params[:content]
+   blog.date = DateTime.now
+   blog.save
+   
+   redirect "/#{blog.id}"
+ end

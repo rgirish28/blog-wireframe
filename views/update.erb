@@ -1,0 +1,7 @@
+<h4> Edit post </h4>	
+
+<form action = "/<%=@blog.id%>" method = "post">
+	<input class = "input-block-level" id="title" type = "text" name = "title" placeholder = "Title" value = "<%=@blog.title%>">
+	<p><textarea class = "input-block-level" rows = "20" cols = "100" id = "content" name = "content" placeholder = "Blog Content"><%=@blog.content%></textarea></p>
+	<input class = "btn btn-primary" type = "submit" value = "Submit">
+</form>
