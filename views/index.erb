@@ -1,0 +1,14 @@
+<h4> Posts </h4>	
+<% @blogs.each do |blog| %>
+  <p>  
+    <span><a href="/<%= blog.id %>"><%= blog.title %> - <%= blog.date%></a></span>  
+  </p>
+<% end %>
+
+<h4> Submit new post </h4>	
+
+<form action = "/" method = "post">
+	<input class = "input-block-level" id="title" type = "text" name = "title" placeholder = "Title">
+	<p><textarea class = "input-block-level" rows = "20" cols = "100" id = "content" name = "content" placeholder = "Blog Content"></textarea></p>
+	<input class = "btn btn-primary" type = "submit" value = "Submit">
+</form>
